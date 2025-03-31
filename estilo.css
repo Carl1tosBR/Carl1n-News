@@ -19,7 +19,7 @@ img {
     display: block;  /* Faz a imagem ser um bloco */
     margin: 0 auto; /* Centraliza a imagem */
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.541);
-    max-width: 70%;
+    max-width: 100%;
     height: auto;
 } 
 
